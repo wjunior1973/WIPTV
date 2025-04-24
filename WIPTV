@@ -132,11 +132,17 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1,Old Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
 
+#EXTINF:-1,Os Simpsons 24h
+http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?
+
 #EXTINF:-1,Otaku TV
 http://200.194.238.229:8383/live/otaku/playlist.m3u8
 
 #EXTINF:-1,Pegadinhas do Joao Kleber
 http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
+
+#EXTINF:-1,Pesadelo na Cozinha 24h
+http://24hrs.homelinux.com:8080/24H-pesadelonacozinha/video.m3u8?
 
 #EXTINF:-1,Premiere Clubes
 http://15.235.15.230:14020
