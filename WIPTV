@@ -163,7 +163,7 @@ https://cdn-3.nxplay.com.br/HTO_NITRO/tracks-v1a1/mono.m3u8
 https://cdn-3.nxplay.com.br/HTO_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Jovem Pan News
-https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
+http://tv.mapfibra.com.br:8555/live/1313/123456/161.m3u8
 
 #EXTINF:-1,L!ke
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
