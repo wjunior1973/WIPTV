@@ -3,29 +3,29 @@
 #EXTINF:-1,011 News
 https://011news.akamaized.net/011news/011news/playlist.m3u8
 
+#EXTINF:-1,40 Graus TV
+https://acesso.ecast.site:3125/stream/play.m3u8
+
 #EXTINF:-1,A&E
 http://79.127.238.228:14551
+
+#EXTINF:-1,AgitoMax
+https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
+
+#EXTINF:-1,AgroMais TV
+https://d1r94zrwa3gnlo.cloudfront.net/livestore105/stream/hls/291/291.m3u8
 
 #EXTINF:-1,Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1,Band
-http://168.205.87.198:8555/live/1313/123456/19.m3u8
+#EXTINF:-1,AMC
+http://185.236.183.117:14009/AMCfhd
+
+#EXTINF:-1,Band News
+http://185.236.183.117:14043/BandNewsfhd
 
 #EXTINF:-1,BM&C News
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-
-#EXTINF:-1,BoxKids TV
-http://tv.mapfibra.com.br:8555/live/1313/123456/259.m3u8
-
-#EXTINF:-1,Canal do Boi
-http://tv.mapfibra.com.br:8555/live/1313/123456/167.m3u8
-
-#EXTINF:-1,Canal Futura
-http://168.205.87.198:8555/live/1313/123456/67.m3u8
-
-#EXTINF:-1,Canal Kids
-http://168.205.87.198:8555/live/1313/123456/143.m3u8
 
 #EXTINF:-1,Canal Off
 http://15.235.11.7:14075
@@ -43,16 +43,25 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/5.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
 
 #EXTINF:-1,Caze TV
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1,Cine Brasil TV
-http://168.205.87.198:8555/live/1313/123456/243.m3u8
+#EXTINF:-1,Chaves 24h
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
+
+#EXTINF:-1,Cinemax
+http://185.236.183.117:14114/Cinemaxfhd
 
 #EXTINF:-1,Cinemonde
 https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
 
 #EXTINF:-1,CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
+
+#EXTINF:-1,Combate
+http://79.127.238.233:14408/
+
+#EXTINF:-1,Comedy Central
+http://185.236.183.117:14130/
 
 #EXTINF:-1,Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
@@ -63,6 +72,12 @@ https://video01.soultv.com.br/darkflix/darkflix/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://185.246.208.74:14144
 
+#EXTINF:-1,Discovery ID
+http://185.236.183.117:14438/
+
+#EXTINF:-1,Discovery Theater
+http://185.236.183.118:14158/
+
 #EXTINF:-1,Discovery TLC
 http://79.127.238.228:14433
 
@@ -72,20 +87,26 @@ http://15.235.50.112:14097
 #EXTINF:-1,Discovery World
 http://15.235.50.112:14112/
 
-#EXTINF:-1,E-Music Classics
-http://168.205.87.198:8555/live/1313/123456/231.m3u8
+#EXTINF:-1,ESPN
+http://185.236.183.118:14179/
 
-#EXTINF:-1,E-Music Party
-http://tv.mapfibra.com.br:8555/live/1313/123456/235.m3u8
+#EXTINF:-1,ESPN 2
+http://185.236.183.118:14181/
 
-#EXTINF:-1,E-Music Pop
-http://tv.mapfibra.com.br:8555/live/1313/123456/236.m3u8
+#EXTINF:-1,ESPN 3
+http://185.236.183.118:14185/
 
-#EXTINF:-1,E-Music Rock
-http://tv.mapfibra.com.br:8555/live/1313/123456/237.m3u8
+#EXTINF:-1,ESPN 4
+http://185.236.183.118:14191/
+
+#EXTINF:-1,Eu a Patroa e as Criancas 24h
+http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/playlist.m3u8
 
 #EXTINF:-1,Filmelier TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,Food Network
+http://185.236.183.118:14208/
 
 #EXTINF:-1,Friends 24h
 http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
@@ -96,8 +117,17 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1,Globo
 http://15.235.50.113:14770
 
+#EXTINF:-1,Globo RJ
+http://79.127.238.228:14217/
+
+#EXTINF:-1,Globo SP
+http://79.127.238.228:14211/
+
 #EXTINF:-1,GloboNews
 http://79.127.238.228:14093
+
+#EXTINF:-1,Globoplay Novelas
+http://79.127.238.228:14455
 
 #EXTINF:-1,GNT
 http://79.127.238.228:14402
@@ -123,11 +153,29 @@ https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:-1,Hallo! Series
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
+#EXTINF:-1,HBO
+http://185.236.183.118:14397/
+
+#EXTINF:-1,HBO 2
+http://185.236.183.118:14401/
+
 #EXTINF:-1,HBO Family
-http://15.235.50.112:14192/
+http://185.236.183.118:14402/
+
+#EXTINF:-1,HBO Plus
+http://185.236.183.118:14408/
+
+#EXTINF:-1,HBO Xtreme
+http://185.236.183.116:17424/
+
+#EXTINF:-1,HGTV
+http://185.236.183.117:14430/
 
 #EXTINF:-1,History
 http://15.235.11.7:14132
+
+#EXTINF:-1,History 2
+http://185.236.183.118:14391/H2hd
 
 #EXTINF:-1,HTO Docs
 https://cdn-3.nxplay.com.br/HTO_DOCS/tracks-v1a1/mono.m3u8
@@ -144,9 +192,6 @@ https://cdn-3.nxplay.com.br/HTO_NITRO/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HTO TV
 https://cdn-3.nxplay.com.br/HTO_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Jovem Pan News
-http://tv.mapfibra.com.br:8555/live/1313/123456/161.m3u8
-
 #EXTINF:-1,L!ke
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 
@@ -161,9 +206,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 
 #EXTINF:-1,Multishow
 http://15.235.11.7:14146
-
-#EXTINF:-1,Music Box Brazil
-http://tv.mapfibra.com.br:8555/live/1313/123456/257.m3u8
 
 #EXTINF:-1,NCIS 24h
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -192,35 +234,32 @@ http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?
 #EXTINF:-1,Otaku TV
 http://200.194.238.229:8383/live/otaku/playlist.m3u8
 
+#EXTINF:-1,Paramount Network
+http://185.236.183.116:17497/
+
+#EXTINF:-1,Paramount+
+http://185.236.183.118:14040/
+
 #EXTINF:-1,Pegadinhas do Joao Kleber
 http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
 
 #EXTINF:-1,Pesadelo na Cozinha 24h
 http://24hrs.homelinux.com:8080/24H-pesadelonacozinha/video.m3u8?
 
-#EXTINF:-1,Premiere Clubes
-http://15.235.15.230:14020
+#EXTINF:-1,Play TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
 
-#EXTINF:-1,Prime Box Brazil
-http://tv.mapfibra.com.br:8555/live/1313/123456/256.m3u8
+#EXTINF:-1,Programa 4 por 4
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
-#EXTINF:-1,Ra-Tim-Bum
-http://tv.mapfibra.com.br:8555/live/1313/123456/84.m3u8
-
-#EXTINF:-1,Record
-http://168.205.87.198:8555/live/1313/123456/96.m3u8
+#EXTINF:-1,Record TV
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
 
 #EXTINF:-1,Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 
-#EXTINF:-1,Rede Seculo 21
-http://tv.mapfibra.com.br:8555/live/1313/123456/106.m3u8
-
 #EXTINF:-1,Rede TV!
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
-
-#EXTINF:-1,Rede Vida
-http://168.205.87.198:8555/live/1313/123456/151.m3u8
 
 #EXTINF:-1,Reviva TV
 https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
@@ -249,9 +288,6 @@ https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender.m3u8
 #EXTINF:-1,SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1,Series Classicas
-http://tv.mapfibra.com.br:8555/live/1313/123456/160.m3u8
-
 #EXTINF:-1,SFT Combat
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 
@@ -267,6 +303,24 @@ http://24hrs.homelinux.com:8080/24H-standup/video.m3u8
 #EXTINF:-1,Tastemade!
 https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
 
+#EXTINF:-1,Telecine Action
+http://185.236.183.117:14675/tlcActionhd
+
+#EXTINF:-1,Telecine Premium
+http://185.236.183.117:14686/
+
+#EXTINF:-1,TNT
+http://185.236.183.118:14706/
+
+#EXTINF:-1,TNT Novelas
+http://185.236.183.117:14668/TNTNovelasfhd
+
+#EXTINF:-1,TNT Series
+http://185.236.183.118:14709/tntseriesfhd
+
+#EXTINF:-1,Todo Mundo Odeia O Cris 24h
+http://24hrs.homelinux.com:8080/24H-todomundoodeiaocris/video.m3u8
+
 #EXTINF:-1,TV +Pet
 https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 
@@ -279,29 +333,20 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1,TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1,TV da Pesca
-http://tv.mapfibra.com.br:8555/live/1313/123456/264.m3u8
-
-#EXTINF:-1,TV Evangelizar
-http://tv.mapfibra.com.br:8555/live/1313/123456/189.m3u8
-
 #EXTINF:-1,TV Galega
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 
 #EXTINF:-1,TV Gazeta
 https://acesso.ecast.site:3125/stream/play.m3u8
 
-#EXTINF:-1,TV Justica
-http://tv.mapfibra.com.br:8555/live/1313/123456/138.m3u8
-
 #EXTINF:-1,TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
-#EXTINF:-1,TV Senado
-http://168.205.87.198:8555/live/1313/123456/139.m3u8
-
 #EXTINF:-1,TVD News
 http://201.159.95.110:25461/live/site/site/666.m3u8
+
+#EXTINF:-1,Um Maluco no Pedaco 24h
+http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/playlist.m3u8
 
 #EXTINF:-1,Urban Docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
@@ -324,20 +369,11 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1,Urban Travel
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 
+#EXTINF:-1,USA Network
+http://185.236.183.117:14663/
+
 #EXTINF:-1,Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
-#EXTINF:-1,ViVA
-http://79.127.238.228:14455
-
-#EXTINF:-1,Vivax
-http://tv.mapfibra.com.br:8555/live/1313/123456/245.m3u8
-
 #EXTINF:-1,Warner Channel
 http://79.127.238.228:14647
-
-#EXTINF:-1,WooHoo
-http://168.205.87.198:8555/live/1313/123456/141.m3u8
-
-#EXTINF:-1,ZooMoo
-http://tv.mapfibra.com.br:8555/live/1313/123456/162.m3u8
