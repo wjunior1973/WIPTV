@@ -249,6 +249,9 @@ http://24hrs.homelinux.com:8080/24H-pesadelonacozinha/video.m3u8?
 #EXTINF:-1,Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 
+#EXTINF:-1,Pop TV
+https://rtisoluctions.com.br/hls/test_hd720.m3u8
+
 #EXTINF:-1,Programa 4 por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
