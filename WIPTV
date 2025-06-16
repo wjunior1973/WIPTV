@@ -87,11 +87,8 @@ https://video01.soultv.com.br/darkflix/darkflix/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://185.246.208.74:14144
 
-#EXTINF:-1,Discovery H&H
-http://185.236.183.117:14439
-
 #EXTINF:-1,Discovery ID
-http://185.236.183.117:14438/
+http://185.236.183.117:14439
 
 #EXTINF:-1,Discovery Theater
 http://185.236.183.118:14158/
@@ -125,9 +122,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a24
 
 #EXTINF:-1,Fish TV
 http://185.236.183.117:14206
-
-#EXTINF:-1,Food Network
-http://185.236.183.118:14208/
 
 #EXTINF:-1,Friends 24h
 http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
