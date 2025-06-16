@@ -132,6 +132,9 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1,Globo
 http://15.235.50.113:14770
 
+#EXTINF:-1,Globo BA
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
 #EXTINF:-1,Globo RJ
 http://79.127.238.228:14217/
 
