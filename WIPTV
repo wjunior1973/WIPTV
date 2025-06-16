@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 group-title="NOTICIAS",011 News
 https://011news.akamaized.net/011news/011news/playlist.m3u8
 
@@ -283,6 +282,21 @@ https://rtisoluctions.com.br/hls/test_hd720.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Premiere Clubes
 http://185.236.183.117:14029
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 2
+http://185.236.183.118:14511/
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 3
+http://185.236.183.118:14517/
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 4
+http://185.236.183.118:14520/
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 5
+http://185.236.183.118:14524/
+
+#EXTINF:-1 group-title="ESPORTES",Premiere 6
+http://185.236.183.118:14527/
 
 #EXTINF:-1 group-title="NOTICIAS",Programa 4 por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
