@@ -46,6 +46,9 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
 #EXTINF:-1,Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
+#EXTINF:-1,Chapolin Colorado 24h
+http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
+
 #EXTINF:-1,Chaves 24h
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
 
@@ -75,6 +78,15 @@ http://15.235.50.112:14097
 
 #EXTINF:-1,Discovery World
 http://15.235.50.112:14112/
+
+#EXTINF:-1,Dois Homens e Meio 24h
+http://24hrs.homelinux.com:8080/24H-2HomensEmeio/playlist.m3u8
+
+#EXTINF:-1,Escolinha Prof. Raimundo 24h
+http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
+
+#EXTINF:-1,Escolinha Prof. Raimundo 2 24h
+http://15.235.9.200:14904/
 
 #EXTINF:-1,Eu a Patroa e as Criancas 24h
 http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/playlist.m3u8
@@ -193,6 +205,9 @@ https://rtisoluctions.com.br/hls/test_hd720.m3u8
 #EXTINF:-1,Programa 4 por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
+#EXTINF:-1,Record TV Conquista
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
+
 #EXTINF:-1,Record TV Tropical
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 
@@ -220,8 +235,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1,Run:Time Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
-#EXTINF:-1,SBT Bahia
-https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+#EXTINF:-1,SBT Guajara
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
 #EXTINF:-1,SFT Combat
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
@@ -237,6 +252,9 @@ http://24hrs.homelinux.com:8080/24H-standup/video.m3u8
 
 #EXTINF:-1,Tastemade!
 https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
+
+#EXTINF:-1,TNT
+http://79.127.238.228:14629/
 
 #EXTINF:-1,Todo Mundo Odeia O Cris 24h
 http://24hrs.homelinux.com:8080/24H-todomundoodeiaocris/video.m3u8
