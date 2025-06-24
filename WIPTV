@@ -40,6 +40,9 @@ https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Canal Off
 http://15.235.11.7:14075
 
+#EXTINF:-1,Canal Educacao
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
 #EXTINF:-1,Canal Rural
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 
