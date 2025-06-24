@@ -274,6 +274,9 @@ https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 #EXTINF:-1,SIC Noticias (Portugal)
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
+#EXTINF:-1,Sobrenatural 24h
+http://15.235.9.200:14022
+
 #EXTINF:-1,Sony Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
