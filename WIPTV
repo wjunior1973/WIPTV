@@ -43,11 +43,11 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f55
 #EXTINF:-1,Bora Filmes
 https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Canal Off
-http://15.235.11.7:14075
-
 #EXTINF:-1,Canal Educacao
 https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1,Canal Off
+http://15.235.11.7:14075
 
 #EXTINF:-1,Canal Rural
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
@@ -285,6 +285,9 @@ https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist
 
 #EXTINF:-1,Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1,Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w777908443.m3u8
 
 #EXTINF:-1,Rede TV!
 https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
