@@ -106,6 +106,9 @@ http://15.235.9.200:14904/
 #EXTINF:-1,Eu a Patroa e as Criancas 24h
 http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/playlist.m3u8
 
+#EXTINF:-1,Fatos Desconhecidos 24h
+http://24hrs.homelinux.com:8080/24H-fatosdesconhecidos/video.m3u8
+
 #EXTINF:-1,Filmelier TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -363,6 +366,9 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
 #EXTINF:-1,Vintage TV
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/playlist.m3u8
+
+#EXTINF:-1,Voce Sabia 24h
+http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8?
 
 #EXTINF:-1,Warner Channel
 http://79.127.238.228:14647
