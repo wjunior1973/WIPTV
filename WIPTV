@@ -4,6 +4,9 @@
 #EXTINF:-1,011 News
 https://011news.akamaized.net/011news/011news/playlist.m3u8
 
+#EXTINF:-1,24H News
+https://cdn-3.nxplay.com.br/24H_NEWS/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,40 Graus TV
 https://acesso.ecast.site:3125/stream/play.m3u8
 
@@ -22,14 +25,23 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1,AMC
 http://dnsbpktzx.space:80/684961409738PW/424243160291PR/2
 
+#EXTINF:-1,Astral TV
+https://cdn-3.nxplay.com.br/TV_ASTRAL/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1,Band PA
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+#EXTINF:-1,Band
+http://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1,Band News
+https://cdn-3.nxplay.com.br/BAND_NEWS_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1,BM&C News
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1,Bora Filmes
+https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Canal Off
 http://15.235.11.7:14075
@@ -150,6 +162,9 @@ https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1,Hallo! Series
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1,HGTV
+https://cdn-3.nxplay.com.br/HGTV_BR_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1,History
 http://15.235.11.7:14132
