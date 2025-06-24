@@ -31,12 +31,6 @@ https://cdn-3.nxplay.com.br/TV_ASTRAL/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1,Band
-http://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1,Band News
-https://cdn-3.nxplay.com.br/BAND_NEWS_TK/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1,BM&C News
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
@@ -162,9 +156,6 @@ https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1,Hallo! Series
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-
-#EXTINF:-1,HGTV
-https://cdn-3.nxplay.com.br/HGTV_BR_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1,History
 http://15.235.11.7:14132
@@ -363,21 +354,6 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 #EXTINF:-1,Urban Travel
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
-
-#EXTINF:-1,Vevo 2K
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-
-#EXTINF:-1,Vevo 70s & 80s
-https://d8ey2gcjuai15.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t4dwcnavbvxsk/Vevo70sand80s_GB.m3u8
-
-#EXTINF:-1,Vevo 90s & 00s
-https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8
-
-#EXTINF:-1,Vevo Pop
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-
-#EXTINF:-1,Vevo Retro Rock
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
 #EXTINF:-1,Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
