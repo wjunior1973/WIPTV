@@ -10,8 +10,14 @@ https://cdn-3.nxplay.com.br/24H_NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1,40 Graus TV
 https://streaming.cloudecast.com/hls/40graus/index.m3u8
 
+#EXTINF:-1,A Grande Familia 24h
+http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8?token=a4A2wbotS3
+
 #EXTINF:-1,A&E
 http://79.127.238.228:14551
+
+#EXTINF:-1,A&E [ALT]
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 
 #EXTINF:-1,Acelerados TV
 https://cc-afscwj856ih88.akamaized.net/IJKL/Amagi/Offgrid/Acelerados_BR/Acelerados.m3u8
