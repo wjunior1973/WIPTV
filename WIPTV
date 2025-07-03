@@ -61,6 +61,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f55
 #EXTINF:-1,Bora Filmes
 https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,BR8 TV
+https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+
 #EXTINF:-1,Canal Educacao
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
@@ -151,6 +154,9 @@ http://15.235.50.112:14112/
 #EXTINF:-1,Dois Homens e Meio 24h
 http://24hrs.homelinux.com:8080/24H-2HomensEmeio/playlist.m3u8
 
+#EXTINF:-1,Drake e Josh 24h
+http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
+
 #EXTINF:-1,Escolinha Prof. Raimundo 24h
 http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
 
@@ -174,6 +180,9 @@ https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
 
 #EXTINF:-1,Friends 24h
 http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
+
+#EXTINF:-1,Futurama 24h
+http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
 
 #EXTINF:-1,Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
