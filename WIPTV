@@ -31,9 +31,6 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore105/stream/hls/291/291.m3u8
 #EXTINF:-1,Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1,AMC
-http://dnsbpktzx.space:80/684961409738PW/424243160291PR/2
-
 #EXTINF:-1,Astral TV
 https://cdn-3.nxplay.com.br/TV_ASTRAL/tracks-v1a1/mono.m3u8
 
