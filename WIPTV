@@ -34,12 +34,6 @@ https://cdn-3.nxplay.com.br/TV_ASTRAL/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1,AXN
-http://dnsbpktzx.space:80/684961409738PW/424243160291PR/835
-
-#EXTINF:-1,Band SP
-http://dnsbpktzx.space:80/684961409738PW/424243160291PR/868
-
 #EXTINF:-1,Band TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
@@ -144,15 +138,6 @@ http://15.235.50.113:14770
 
 #EXTINF:-1,Globo BA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-
-#EXTINF:-1,Globo NSC Blumenau
-http://dnsbpktzx.space:80/684961409738PW/424243160291PR/430
-
-#EXTINF:-1,Globo NSC Floripa
-http://dnsbpktzx.space:80/684961409738PW/424243160291PR/76677
-
-#EXTINF:-1,Globo NSC Joinville
-http://dnsbpktzx.space:80/684961409738PW/424243160291PR/731
 
 #EXTINF:-1,Globo RJ
 http://79.127.238.228:14217/
@@ -298,8 +283,11 @@ https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1,Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w777908443.m3u8
 
-#EXTINF:-1,Rede TV!
-http://dnsbpktzx.space:80/684961409738PW/424243160291PR/869
+#EXTINF:-1,Rede TV! PR
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+
+#EXTINF:-1,Rede TV! TV Pampa
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 
 #EXTINF:-1,Rookie Blue 24h
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -327,15 +315,6 @@ https://aovivo.maissbt.com/channel_1080.m3u8
 
 #EXTINF:-1,SBT Guajara
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-
-#EXTINF:-1,SBT +Novelas
-http://dnsbpktzx.space:80/684961409738PW/424243160291PR/453188
-
-#EXTINF:-1,SBT +Saudade
-http://dnsbpktzx.space:80/684961409738PW/424243160291PR/453190
-
-#EXTINF:-1,SBT +Silvio Santos
-http://dnsbpktzx.space:80/684961409738PW/424243160291PR/453192
 
 #EXTINF:-1,Series Comedia 24h
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
