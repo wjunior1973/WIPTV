@@ -16,9 +16,6 @@ https://aovivo.doozytv.com.br/31025556/10161894/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band MG
 http://168.205.87.198:8555/live/1315/123456/19.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Band RJ
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3
-
 #EXTINF:-1 group-title="TV ABERTA",Canal Rural
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 
@@ -49,6 +46,9 @@ https://aovivo.doozytv.com.br/31025556/10161884/chunks.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record - TV Tropical
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Rede TV!
+https://aovivo.doozytv.com.br/31025556/10161899/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! MG
 http://168.205.87.198:8555/live/1315/123456/102.m3u8
 
@@ -60,6 +60,9 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT
 https://aovivo.maissbt.com/channel_1080.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",SBT [2]
+https://aovivo.doozytv.com.br/31025556/10161897/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT MG
 http://168.205.87.198:8555/live/1315/123456/104.m3u8
@@ -231,6 +234,9 @@ https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Multishow
 http://15.235.11.7:14146
+
+#EXTINF:-1 group-title="VARIEDADES",Pet Lovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Sabor & Arte
 https://aovivo.doozytv.com.br/31025556/10160543/chunks.m3u8
@@ -525,6 +531,9 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 group-title="ANIME/GEEK",Hallo! Anime
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 
+#EXTINF:-1 group-title="ANIME/GEEK",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
 #EXTINF:-1 group-title="ANIME/GEEK",Otaku TV
 http://200.194.238.229:8383/live/otaku/playlist.m3u8
 
@@ -598,3 +607,4 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
