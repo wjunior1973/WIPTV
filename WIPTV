@@ -16,6 +16,9 @@ https://aovivo.doozytv.com.br/31025556/10161894/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band MG
 http://168.205.87.198:8555/live/1315/123456/19.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA",Band - RBA TV
+https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA",Canal Rural
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 
@@ -39,6 +42,9 @@ http://79.127.238.228:14211/
 
 #EXTINF:-1 group-title="TV ABERTA",Record MG
 http://168.205.87.198:8555/live/1315/123456/96.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Record RJ
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Record SP
 https://aovivo.doozytv.com.br/31025556/10161884/chunks.m3u8
@@ -199,6 +205,9 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",A&E
 http://79.127.238.228:14551
 
+#EXTINF:-1 group-title="VARIEDADES",Arte1
+https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
@@ -256,6 +265,9 @@ https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Multishow
 http://15.235.11.7:14146
 
+#EXTINF:-1 group-title="VARIEDADES",People Are Awesome
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Pet Lovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 
@@ -283,6 +295,9 @@ https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES",TV Historia
 https://srv1.zcast.com.br/tvhistoria/tvhistoria/chunklist_w2064624581.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES",Universidade da Pessoa
+http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES",Urban Docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
@@ -294,109 +309,6 @@ https://video07.logicahost.com.br/vamborachannel/vamborachannel/chunklist_w16638
 
 #EXTINF:-1 group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-
-################
-### 24 HORAS ###
-################
-
-#EXTINF:-1 group-title="24 HORAS",A Grande Familia
-http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8?token=a4A2wbotS3
-
-#EXTINF:-1 group-title="24 HORAS",Chapolin Colorado
-http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Chaves
-http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",CSI Miami
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
-#EXTINF:-1 group-title="24 HORAS",Dois Homens e Meio
-http://24hrs.homelinux.com:8080/24H-2HomensEmeio/playlist.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Drake e Josh
-http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Escolinha Prof. Raimundo
-http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Escolinha Prof. Raimundo 2
-http://15.235.9.200:14904/
-
-#EXTINF:-1 group-title="24 HORAS",Eu a Patroa e as Criancas
-http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/playlist.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Fatos Desconhecidos
-http://24hrs.homelinux.com:8080/24H-fatosdesconhecidos/video.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Friends
-http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Futurama
-http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",MacGyver
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="24 HORAS",Manual do Mundo
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Offgrid/Manual_do_Mundo_BR/Manual_do_Mundo.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",MasterChef
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="24 HORAS",NCIS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 group-title="24 HORAS",Os Simpsons
-http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?
-
-#EXTINF:-1 group-title="24 HORAS",Os Trapalhoes
-http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Pegadinhas Joao Kleber
-http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Pegadinhas Rede TV!
-https://origin-nxtv.b-cdn.net/REDETV_PEGADINHAS/tracks-v1a1/mono.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYnBrLXR2L1JlZGVUVi9kZWZhdWx0L2luZGV4Lm0zdTgiLCJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTIxNTgwNTZ9.k84nEQX_3Zc1Nwvcs96K0IEDE_REl7UZwoGjbw0mQz8
-
-#EXTINF:-1 group-title="24 HORAS",Pegadinhas Silvio Santos
-http://24hrs.homelinux.com:8080/24H-pegadihassilviosantos.txt/playlist.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Pesadelo na Cozinha
-http://24hrs.homelinux.com:8080/24H-pesadelonacozinha/video.m3u8?
-
-#EXTINF:-1 group-title="24 HORAS",Receitas
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Rookie Blue
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="24 HORAS",Series Comedia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="24 HORAS",Series Criminais
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="24 HORAS",Series Ficcao
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="24 HORAS",Sobrenatural
-http://15.235.9.200:14022
-
-#EXTINF:-1 group-title="24 HORAS",Stand Up!
-http://24hrs.homelinux.com:8080/24H-standup/video.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Terror Trash
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66aa67493a4ad2000806d91b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="24 HORAS",Todo Mundo Odeia O Cris
-http://24hrs.homelinux.com:8080/24H-todomundoodeiaocris/video.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Um Maluco no Pedaco
-http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/playlist.m3u8
-
-#EXTINF:-1 group-title="24 HORAS",Voce Sabia
-http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8?
 
 #####################
 ### FILMES/SERIES ###
@@ -521,6 +433,109 @@ https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
 http://79.127.238.228:14647
+
+################
+### 24 HORAS ###
+################
+
+#EXTINF:-1 group-title="24 HORAS",A Grande Familia
+http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 group-title="24 HORAS",Chapolin Colorado
+http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Chaves
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",CSI Miami
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 group-title="24 HORAS",Dois Homens e Meio
+http://24hrs.homelinux.com:8080/24H-2HomensEmeio/playlist.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Drake e Josh
+http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Escolinha Prof. Raimundo
+http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Escolinha Prof. Raimundo 2
+http://15.235.9.200:14904/
+
+#EXTINF:-1 group-title="24 HORAS",Eu a Patroa e as Criancas
+http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/playlist.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Fatos Desconhecidos
+http://24hrs.homelinux.com:8080/24H-fatosdesconhecidos/video.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Friends
+http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Futurama
+http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",MacGyver
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="24 HORAS",Manual do Mundo
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Offgrid/Manual_do_Mundo_BR/Manual_do_Mundo.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",MasterChef
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="24 HORAS",NCIS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 group-title="24 HORAS",Os Simpsons
+http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?
+
+#EXTINF:-1 group-title="24 HORAS",Os Trapalhoes
+http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Pegadinhas Joao Kleber
+http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Pegadinhas Rede TV!
+https://origin-nxtv.b-cdn.net/REDETV_PEGADINHAS/tracks-v1a1/mono.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYnBrLXR2L1JlZGVUVi9kZWZhdWx0L2luZGV4Lm0zdTgiLCJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTIxNTgwNTZ9.k84nEQX_3Zc1Nwvcs96K0IEDE_REl7UZwoGjbw0mQz8
+
+#EXTINF:-1 group-title="24 HORAS",Pegadinhas Silvio Santos
+http://24hrs.homelinux.com:8080/24H-pegadihassilviosantos.txt/playlist.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Pesadelo na Cozinha
+http://24hrs.homelinux.com:8080/24H-pesadelonacozinha/video.m3u8?
+
+#EXTINF:-1 group-title="24 HORAS",Receitas
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Rookie Blue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="24 HORAS",Series Comedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="24 HORAS",Series Criminais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="24 HORAS",Series Ficcao
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="24 HORAS",Sobrenatural
+http://15.235.9.200:14022
+
+#EXTINF:-1 group-title="24 HORAS",Stand Up!
+http://24hrs.homelinux.com:8080/24H-standup/video.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Terror Trash
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66aa67493a4ad2000806d91b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="24 HORAS",Todo Mundo Odeia O Cris
+http://24hrs.homelinux.com:8080/24H-todomundoodeiaocris/video.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Um Maluco no Pedaco
+http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/playlist.m3u8
+
+#EXTINF:-1 group-title="24 HORAS",Voce Sabia
+http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8?
 
 ###############
 ### NOVELAS ###
@@ -677,9 +692,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efc
 #EXTINF:-1 group-title="RELIGIOSOS",Cancao Nova
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/5.m3u8
 
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",Rede Vida
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSOS",RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+
 #EXTINF:-1 group-title="RELIGIOSOS",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSOS",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
-
