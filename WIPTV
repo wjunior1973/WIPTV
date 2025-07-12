@@ -332,6 +332,9 @@ http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8?
 #EXTINF:-1 group-title="FILMES/SERIES",A Grande Familia 24H
 http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8?token=a4A2wbotS3
 
+#EXTINF:-1 group-title="FILMES/SERIES",AMC
+http://dnsbpktzx.space:80/684961409738PW/424243160291PR/2
+
 #EXTINF:-1 group-title="FILMES/SERIES",As Visoes da Raven 24H
 http://24hrs.homelinux.com:8080/24H-asvisoesdaraven/playlist.m3u8
 
