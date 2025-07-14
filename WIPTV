@@ -40,14 +40,8 @@ http://168.205.87.198:8555/live/1315/123456/96.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record RJ
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",Record SP
-https://aovivo.doozytv.com.br/31025556/10161884/chunks.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA",Record - TV Tropical
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",Rede TV!
-https://aovivo.doozytv.com.br/31025556/10161899/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! MG
 http://168.205.87.198:8555/live/1315/123456/102.m3u8
@@ -60,9 +54,6 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT
 https://aovivo.maissbt.com/channel_1080.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA",SBT [2]
-https://aovivo.doozytv.com.br/31025556/10161897/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA",SBT MG
 http://168.205.87.198:8555/live/1315/123456/104.m3u8
@@ -94,9 +85,6 @@ https://cdn-3.nxplay.com.br/24H_NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Avanca Brasil
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",Band News
-https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",Band News [New Brasil]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -153,9 +141,6 @@ https://cc-afscwj856ih88.akamaized.net/IJKL/Amagi/Offgrid/Acelerados_BR/Acelerad
 #EXTINF:-1 group-title="ESPORTES",Auto TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",Band Sports
-https://aovivo.doozytv.com.br/31025556/10151114/chunks.m3u8
-
 #EXTINF:-1 group-title="ESPORTES",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
@@ -210,9 +195,6 @@ http://168.205.87.198:8555/live/1315/123456/67.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Canal Off
 http://15.235.11.7:14075
-
-#EXTINF:-1 group-title="VARIEDADES",CineBrasil TV
-https://aovivo.doozytv.com.br/31025556/10160499/chunks.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Cultne.TV
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
@@ -288,9 +270,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Receitas
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Sabor & Arte
-https://aovivo.doozytv.com.br/31025556/10160543/chunks.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Sabor & Arte 2
 https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
@@ -524,9 +503,6 @@ http://79.127.238.228:14455
 
 #EXTINF:-1 group-title="NOVELAS",Novelissima
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
-
-#EXTINF:-1 group-title="NOVELAS",Hallo! Dorama
-https://aovivo.doozytv.com.br/31025556/10163906/playlist.m3u8
 
 #EXTINF:-1 group-title="NOVELAS",Tela Brasil TV
 https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
