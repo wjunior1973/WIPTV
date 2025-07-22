@@ -61,9 +61,6 @@ http://168.205.87.198:8555/live/1315/123456/104.m3u8
 #EXTINF:-1 group-title="TV ABERTA",SBT TV Guajara
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",TV Brasil
-http://185.236.183.117:14727
-
 #EXTINF:-1 group-title="TV ABERTA",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
@@ -167,9 +164,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457
 
 #EXTINF:-1 group-title="ESPORTES",N Sports
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",Paramount+
-http://185.236.183.118:14040/
 
 #EXTINF:-1 group-title="ESPORTES",Racing America
 https://racingamerica-plex.amagi.tv/playlist.m3u8
@@ -458,15 +452,6 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Sony Emocoes
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
-http://185.236.183.117:14679
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
-http://185.236.183.117:14682
-
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
-http://185.236.183.117:14686/
-
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch
 http://15.235.50.115:14011
 
@@ -561,9 +546,6 @@ https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
 
 #EXTINF:-1 group-title="INFANTIS",Turma da Monica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="INFANTIS",TV Ra-Tim-Bum
-http://185.236.183.117:14741
 
 #EXTINF:-1 group-title="INFANTIS",Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
