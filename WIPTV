@@ -98,6 +98,9 @@ https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w794021843.m3u8
 #EXTINF:-1 group-title="NOTICIAS",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS",Euronews Portugal
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619e6614c9d9650007a2b171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+
 #EXTINF:-1 group-title="NOTICIAS",Globo News
 http://79.127.238.228:14093
 
@@ -165,6 +168,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/pla
 #EXTINF:-1 group-title="ESPORTES",Globo Esporte
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 
+#EXTINF:-1 group-title="ESPORTES",GPTV
+https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="ESPORTES",Hard Knocks Fight Championship
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
 
@@ -173,6 +179,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457
 
 #EXTINF:-1 group-title="ESPORTES",N Sports
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",Racer Brasil
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",Racing America
 https://racingamerica-plex.amagi.tv/playlist.m3u8
@@ -394,6 +403,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea
 
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://79.127.238.228:14592/
+
+#EXTINF:-1 group-title="FILMES/SERIES",Mr. Bean 24H
+https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES",NCIS 24H
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
