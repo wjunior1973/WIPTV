@@ -77,9 +77,6 @@ http://168.205.87.198:8555/live/1315/123456/139.m3u8
 #EXTINF:-1 group-title="NOTICIAS",24H News
 https://cdn-3.nxplay.com.br/24H_NEWS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",Avanca Brasil
-https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
-
 #EXTINF:-1 group-title="NOTICIAS",Band News [New Brasil]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
@@ -97,9 +94,6 @@ https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w794021843.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",Euronews Portugal
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619e6614c9d9650007a2b171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="NOTICIAS",Globo News
 http://79.127.238.228:14093
@@ -395,14 +389,8 @@ https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8?token=cf13e87b855
 #EXTINF:-1 group-title="FILMES/SERIES",Hallo! Movies
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8?token=82a409ea228d7cb2402106159a946417c66652eb-d17eb7b54a9c7f76042adf5377a57137-1731305419-1731262219
 
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
-http://15.235.50.112:14192/
-
 #EXTINF:-1 group-title="FILMES/SERIES",MacGyver - Profissao Perigo  24H
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="FILMES/SERIES",Megapix
-http://79.127.238.228:14592/
 
 #EXTINF:-1 group-title="FILMES/SERIES",Mr. Bean 24H
 https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
