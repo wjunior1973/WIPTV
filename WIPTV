@@ -38,6 +38,12 @@ https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/5.m3u8
 #EXTINF:-1,Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1,Channel One
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1,Chapolin Colorado 24H
+http://24hrs.homelinux.com/24H-chapolin1/playlist.m3u8
+#EXTINF:-1,Chaves 24H
+http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8
 #EXTINF:-1,Cine Classicos
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
 #EXTINF:-1,Cine Livre
@@ -134,6 +140,10 @@ https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8?token=82a409ea228d7cb2402106159a946417c66652eb-d17eb7b54a9c7f76042adf5377a57137-1731305419-1731262219
 #EXTINF:-1,Hard Knocks Fight Championship
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
+#EXTINF:-1,HBO
+http://15.235.50.112:14186/
+#EXTINF:-1,HGTV
+http://15.235.11.7:14144/
 #EXTINF:-1,History
 http://15.235.11.7:14132
 #EXTINF:-1,Homeful
@@ -152,6 +162,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Offgrid/Manual_do_Mundo_BR/Manua
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
 #EXTINF:-1,MAVTV Brasil
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457b21livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1,Megapix
+http://79.127.238.228:14592/
 #EXTINF:-1,Mr. Bean 24H
 https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Multishow [2]
