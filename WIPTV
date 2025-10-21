@@ -90,6 +90,9 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1,Discovery TLC
 http://79.127.238.228:14433
 
+#EXTINF:-1,Escolinha Prof. Raimundo 24H
+http://15.235.9.200:14904/
+
 #EXTINF:-1,ESPN
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/287.m3u8
 
@@ -120,6 +123,9 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1,Globo Esporte
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 
+#EXTINF:-1,Globo MG
+http://168.205.87.198:8555/live/1143/123456/70.m3u8
+
 #EXTINF:-1,Globo News
 http://79.127.238.228:14093
 
@@ -141,6 +147,9 @@ https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1,Grjngo TV
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1,Hallo! Anime
+https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
+
 #EXTINF:-1,Hallo! Classic
 https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8?token=cf13e87b855ab49daac5ebe7d93e81514a5cbab7-0e08ef78ccf8bea855c6905a327c1707-1733526642-1733483442
 
@@ -149,6 +158,9 @@ https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
 
 #EXTINF:-1,Hallo! Movies
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8?token=82a409ea228d7cb2402106159a946417c66652eb-d17eb7b54a9c7f76042adf5377a57137-1731305419-1731262219
+
+#EXTINF:-1,Hallo! Music
+https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1,Hallo! Series
 https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8
@@ -189,6 +201,24 @@ http://79.127.238.228:14592/
 #EXTINF:-1,Mr. Bean 24H
 https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,Music CLASSICS
+http://168.205.87.198:8555/live/1143/123456/231.m3u8
+
+#EXTINF:-1,Music HITS
+http://168.205.87.198:8555/live/1143/123456/233.m3u8
+
+#EXTINF:-1,Music LATINO
+http://168.205.87.198:8555/live/1143/123456/234.m3u8
+
+#EXTINF:-1,Music PARTY
+http://168.205.87.198:8555/live/1143/123456/235.m3u8
+
+#EXTINF:-1,Music POP
+http://168.205.87.198:8555/live/1143/123456/236.m3u8
+
+#EXTINF:-1,Music ROCK
+http://168.205.87.198:8555/live/1143/123456/237.m3u8
+
 #EXTINF:-1,N Sports
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 
@@ -222,6 +252,12 @@ https://origin-nxtv.b-cdn.net/REDETV_PEGADINHAS/tracks-v1a1/mono.m3u8?auth=eyJhb
 #EXTINF:-1,Pet Lovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 
+#EXTINF:-1,Playpoca Filmes
+http://168.205.87.198:8555/live/1143/123456/238.m3u8
+
+#EXTINF:-1,Playpoca Series
+http://168.205.87.198:8555/live/1143/123456/239.m3u8
+
 #EXTINF:-1,Premiere Clubes
 http://104.238.222.251:8989/278939_.m3u8
 
@@ -240,8 +276,14 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_
 #EXTINF:-1,Record
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 
+#EXTINF:-1,Record MG
+http://168.205.87.198:8555/live/1143/123456/96.m3u8
+
 #EXTINF:-1,Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1,Rede TV! MG
+http://168.205.87.198:8555/live/1143/123456/102.m3u8
 
 #EXTINF:-1,Rede TV! PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
@@ -273,6 +315,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 #EXTINF:-1,Sabor & Arte
 https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,SBT MG
+http://168.205.87.198:8555/live/1143/123456/104.m3u8
+
 #EXTINF:-1,SBT TV Guajara
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
@@ -293,6 +338,9 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 
 #EXTINF:-1,So Play Movies
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sobrenatural 24H
+http://15.235.9.200:14022
 
 #EXTINF:-1,Sony Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
@@ -351,6 +399,9 @@ https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1,TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
+#EXTINF:-1,TV Clube
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+
 #EXTINF:-1,TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
@@ -390,8 +441,14 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w271212718.m3u8
 #EXTINF:-1,Veja Plus
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265_1080p.m3u8
 
+#EXTINF:-1,VGS TV
+https://isaocorp.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,VH1 Music Legends
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1,Warner Channel
 http://79.127.238.228:14647
+
+#EXTINF:-1,Wise Play TV
+https://acesso.ecast.site:3142/hybrid/play.m3u8
