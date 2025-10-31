@@ -87,6 +87,12 @@ https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 #EXTINF:-1,Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
+#EXTINF:-1,Curta Humanidades
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/67e611c326d64d282fb509ae/bunnycontent_main.m3u8
+
+#EXTINF:-1,Curta Musica e Artes
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/67e6138226d64d282fb509af/bunnycontent_main.m3u8
+
 #EXTINF:-1,Discovery TLC
 http://79.127.238.228:14433
 
@@ -387,6 +393,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/679a973a97782f0008ff4b
 #EXTINF:-1,TNT
 http://79.127.238.228:14629/
 
+#EXTINF:-1,Travel+
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6735a44b06737c4a461f60d7/bunnycontent_main.m3u8
+
 #EXTINF:-1,TV A Critica
 https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 
@@ -410,6 +419,9 @@ https://stream1.freetv.fun/tv-senado-1.m3u8
 
 #EXTINF:-1,TVD News
 http://201.159.95.110:25461/live/site/site/666.m3u8
+
+#EXTINF:-1,Unique Supercast
+https://pop.uniquetv.com.br/supercast/video.m3u8
 
 #EXTINF:-1,Urban Docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
