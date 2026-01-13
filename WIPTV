@@ -3,354 +3,211 @@
 
 #EXTINF:-1,A&E
 http://79.127.238.228:14551
-
 #EXTINF:-1,Adrenalina Pura TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,AMC
-http://45.235.0.78/AMC/playlist.m3u8
-
-#EXTINF:-1,Animal Planet
-http://45.235.0.78/Animal_Planet/playlist.m3u8
-
 #EXTINF:-1,Band
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-
 #EXTINF:-1,Band News [New Brasil]
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
-
-#EXTINF:-1,Band Sports
-https://02.arlivre.online/bandsport/index.m3u8
-
 #EXTINF:-1,Bora Filmes
 https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Cancao Nova
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/5.m3u8
-
 #EXTINF:-1,Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
 #EXTINF:-1,Channel One
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-
 #EXTINF:-1,Cine Classicos
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-
 #EXTINF:-1,CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
-
 #EXTINF:-1,Combate
 http://46.151.196.223:14468/
-
 #EXTINF:-1,Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
 #EXTINF:-1,Discovery Channel
 http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
-
 #EXTINF:-1,Discovery ID
 http://200.4.96.59:8825/play/a03g/index.m3u8
-
 #EXTINF:-1,Discovery TLC
 http://79.127.238.228:14433
-
 #EXTINF:-1,Filmelier TV
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1,Filmelier TV Esperanca
 https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1,Filmelier TV Paixao
 https://amg00740-sofa-amg00740c17-tcl-us-8638.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1,Filmelier TV Vida Real
 https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1,Filmes Acao Total
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
-
 #EXTINF:-1,Flow TV
 https://cc-l2unazbogzufr.akamaized.net/gpf/tvfl/tvfl_h265.m3u8
-
 #EXTINF:-1,Futebol 1
 https://video01.soultv.com.br/julio1/julio1/playlist.m3u8
-
 #EXTINF:-1,Futebol 2
 https://video01.soultv.com.br/julio2/julio2/playlist.m3u8
-
 #EXTINF:-1,Globo BA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-
 #EXTINF:-1,Globo Esporte
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
-
 #EXTINF:-1,Globo News
 http://79.127.238.228:14093
-
 #EXTINF:-1,Globo RJ
 http://79.127.238.228:14217/
-
 #EXTINF:-1,Globo SP
 http://79.127.238.228:14211/
-
 #EXTINF:-1,GloboPlay Novelas
 http://79.127.238.228:14455
-
 #EXTINF:-1,GNT
 http://79.127.238.228:14402
-
 #EXTINF:-1,Hallo! Classic
 https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8?token=cf13e87b855ab49daac5ebe7d93e81514a5cbab7-0e08ef78ccf8bea855c6905a327c1707-1733526642-1733483442
-
 #EXTINF:-1,Hallo! Doc
 https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
-
 #EXTINF:-1,Hallo! Movies
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8?token=82a409ea228d7cb2402106159a946417c66652eb-d17eb7b54a9c7f76042adf5377a57137-1731305419-1731262219
-
 #EXTINF:-1,Hallo! Music
 https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-
 #EXTINF:-1,Hallo! Series
 https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8
-
 #EXTINF:-1,HBO
 http://200.4.96.59:8825/play/a04u/index.m3u8
-
 #EXTINF:-1,HBO 2
 http://200.4.96.59:8825/play/a04v/index.m3u8
-
 #EXTINF:-1,HBO Family
 http://200.4.96.59:8825/play/a0ko/index.m3u8
-
 #EXTINF:-1,HBO Plus
 http://200.4.96.59:8825/play/a04w/index.m3u8
-
 #EXTINF:-1,HGTV
 http://200.229.190.189:8001/play/a01b
-
 #EXTINF:-1,Homeful
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992530&
-
 #EXTINF:-1,Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-
-#EXTINF:-1,MacGyver - Profissao Perigo  24H
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1,MasterChef
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
-
-#EXTINF:-1,Masterchef Brasil
-https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
-
-#EXTINF:-1,Masterchef Profissionais
-https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
-
 #EXTINF:-1,Megapix
 http://79.127.238.228:14592/
-
 #EXTINF:-1,Moove Explore
 https://pop.uniquetv.com.br/mooveexplorer/playlist.m3u8
-
 #EXTINF:-1,Mr. Bean 24H
 https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1,N Sports
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
-
 #EXTINF:-1,NCIS 24H
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1,NetMovies
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-
 #EXTINF:-1,NOW! 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
-
 #EXTINF:-1,NOW! 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-
 #EXTINF:-1,NOW! 90S
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-
 #EXTINF:-1,Old Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
-
 #EXTINF:-1,Programa 4 por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-
 #EXTINF:-1,Racer Brasil
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1,Rakuten Top Movies
 https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
-
 #EXTINF:-1,Receitas
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
-
 #EXTINF:-1,Record
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
-
 #EXTINF:-1,Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
-
 #EXTINF:-1,Rede TV! PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
-
 #EXTINF:-1,Rookie Blue 24H
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1,Run:Time Acao
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-
 #EXTINF:-1,Run:Time Cine Espanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-
 #EXTINF:-1,Run:Time Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-
 #EXTINF:-1,Run:Time Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-
 #EXTINF:-1,Run:Time Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-
 #EXTINF:-1,Sabor & Arte
 https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Series Comedia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1,Series Criminais
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1,Series Ficcao
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1,SFT Combat
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
-
 #EXTINF:-1,So Play Movies
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1,Sony One Emocoes
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
-
 #EXTINF:-1,Sport*TV 1
 http://148.113.160.49:14458/
-
 #EXTINF:-1,Sport*TV 2
 http://148.113.160.49:14454/
-
 #EXTINF:-1,Sport*TV 3
 http://148.113.160.49:14451/
-
 #EXTINF:-1,Sport*TV 4
 http://148.113.160.49:14449/
-
 #EXTINF:-1,Stingray Classic Rock
 https://d1gblbamdkwl5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rlxixsm66esse/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-
 #EXTINF:-1,Stingray Flashback 70s
 https://d30hccj9v28bt6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jp7qdac3e1wzj/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-
 #EXTINF:-1,Stingray Greatest Hits
 https://d2ijgfgrz03rvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5gypvhxzqytm/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-
 #EXTINF:-1,Stingray Remember 80s
 https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-
 #EXTINF:-1,Tastemade
 https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
-
 #EXTINF:-1,Tastemade Casa
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/TastemadeHome.m3u8
-
 #EXTINF:-1,Tastemade Viagem
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeTravel_BR/TastemadeTravel.m3u8
-
 #EXTINF:-1,Telecine Pipoca
 http://200.4.96.59:8825/play/a03k/index.m3u8
-
 #EXTINF:-1,Telecine Premium
 http://200.4.96.59:8825/play/a03i/index.m3u8
-
 #EXTINF:-1,Telecine Touch
 http://200.4.96.59:8825/play/a03j/index.m3u8
-
-#EXTINF:-1,Times Brasil
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/679a973a97782f0008ff4bb6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1,TNT
 http://79.127.238.228:14629/
-
 #EXTINF:-1,TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
-
 #EXTINF:-1,TV Brasil
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
-
 #EXTINF:-1,TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-
 #EXTINF:-1,TV Clube
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-
 #EXTINF:-1,TV Historia
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
-
 #EXTINF:-1,TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
-
 #EXTINF:-1,TV Senado
 https://stream1.freetv.fun/tv-senado-1.m3u8
-
 #EXTINF:-1,TVD News
 http://201.159.95.110:25461/live/site/site/666.m3u8
-
-#EXTINF:-1,Unique Supercast
-https://pop.uniquetv.com.br/supercast/video.m3u8
-
 #EXTINF:-1,Urban Docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
-
 #EXTINF:-1,Urban Drive
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
-
 #EXTINF:-1,Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-
 #EXTINF:-1,Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-
 #EXTINF:-1,Urban Retro
 http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
-
 #EXTINF:-1,Urban Series
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
-
 #EXTINF:-1,Urban Travel
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
-
 #EXTINF:-1,Vambora Channel
 https://video07.logicahost.com.br/vamborachannel/vamborachannel/chunklist_w1663846919.m3u8
-
 #EXTINF:-1,Veja Plus
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265_1080p.m3u8
-
 #EXTINF:-1,VGS TV
 https://isaocorp.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Warner Channel
 http://79.127.238.228:14647
-
 #EXTINF:-1,Wise Play TV
 https://acesso.ecast.site:3142/hybrid/play.m3u8
-
-#EXTINF:-1,Xumo Filmes
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307
