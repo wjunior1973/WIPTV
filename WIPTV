@@ -7,8 +7,6 @@ http://79.127.238.228:14551
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,AMC
 https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
-#EXTINF:-1,AXN
-http://79.127.238.228:14563
 #EXTINF:-1,Band
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1,Band News
@@ -131,6 +129,8 @@ https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b6
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1,Record
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
+#EXTINF:-1,Record RJ
+http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
 #EXTINF:-1,Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1,Rede TV! PR
