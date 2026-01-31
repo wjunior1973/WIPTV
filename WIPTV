@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1,A&E
 http://79.127.238.228:14551
 #EXTINF:-1,Adrenalina Pura TV
@@ -9,12 +8,16 @@ https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1,Band
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1,Band SP
+https://hplay.tv/augetv/12396547488/229.m3u8
 #EXTINF:-1,Band News
 http://kylzrs6v.megogo.xyz/iptv/7B38VC2MRGFSKX/6160/index.m3u8
 #EXTINF:-1,Band News [New Brasil]
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
 #EXTINF:-1,Bora Filmes
 https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Box Kids
+http://168.205.87.198:8555/live/1347/123456/346.m3u8
 #EXTINF:-1,Canal Uol
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1,Cancao Nova
@@ -91,6 +94,8 @@ http://200.4.96.59:8825/play/a04w/index.m3u8
 http://200.229.190.189:8001/play/a01b
 #EXTINF:-1,Homeful
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992530&
+#EXTINF:-1,HTO Kids
+https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/hto_kids/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
 #EXTINF:-1,Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1,MasterChef
@@ -115,6 +120,8 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,Old Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
+#EXTINF:-1,Playpoca Filmes
+http://168.205.87.198:8555/live/1347/123456/326.m3u8
 #EXTINF:-1,Programa 4 por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 #EXTINF:-1,Racer Brasil
@@ -127,6 +134,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:-1,Record RJ
 http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
+#EXTINF:-1,Record SP
+https://hplay.tv/augetv/12396547488/227.m3u8
 #EXTINF:-1,Record News
 https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1,Rede TV! PR
@@ -147,6 +156,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,SBT
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/2.m3u8
+#EXTINF:-1,SBT Minas
+http://168.205.87.198:8555/live/1347/123456/291.m3u8
 #EXTINF:-1,SBT News
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1,SFT Combat
@@ -181,6 +192,8 @@ http://200.4.96.59:8825/play/a03j/index.m3u8
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/82.m3u8
 #EXTINF:-1,TNT
 http://79.127.238.228:14629/
+#EXTINF:-1,Tooncast
+https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:-1,TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 #EXTINF:-1,TV Brasil
@@ -193,6 +206,8 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:-1,TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:-1,TV Ra Tim Bum
+http://168.205.87.198:8555/live/1347/123456/284.m3u8
 #EXTINF:-1,TV Senado
 https://stream1.freetv.fun/tv-senado-1.m3u8
 #EXTINF:-1,TVD News
