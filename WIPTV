@@ -24,6 +24,8 @@ https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
 http://168.205.87.198:8555/live/1347/123456/346.m3u8
 #EXTINF:-1,Canal Brasil
 http://148.113.160.48:14078
+#EXTINF:-1,Canal Futura
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9
 #EXTINF:-1,Canal Like
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265_720p_high.m3u8
 #EXTINF:-1,Canal Uol
