@@ -34,6 +34,10 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="TV ABERTA",TV Escola
+http://200.229.190.189:8001/play/a00w
+#EXTINF:-1 group-title="TV ABERTA",TV Justica
+http://200.229.190.189:8001/play/a018
 #EXTINF:-1 group-title="TV ABERTA",TV Senado
 https://stream1.freetv.fun/tv-senado-1.m3u8
 
