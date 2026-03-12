@@ -40,13 +40,9 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 http://200.229.190.189:8001/play/a00w
 #EXTINF:-1 group-title="TV ABERTA",TV Justica
 http://200.229.190.189:8001/play/a018
-#EXTINF:-1 group-title="TV ABERTA",TV Senado
-https://stream1.freetv.fun/tv-senado-1.m3u8
 
 ### NOTICIAS ###
 
-#EXTINF:-1 group-title="NOTICIAS",24H News
-https://cdn-3.nxplay.com.br/24H_NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Band News
 http://kylzrs6v.megogo.xyz/iptv/7B38VC2MRGFSKX/6160/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",Band News [New Brasil]
@@ -63,8 +59,6 @@ https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 group-title="NOTICIAS",TVD News
 http://201.159.95.110:25461/live/site/site/666.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Veja Plus
-https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265_1080p.m3u8
 
 ### FILMES/SERIES ###
 
@@ -72,16 +66,8 @@ https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265_1080p.m3u8
 http://79.127.238.228:14551
 #EXTINF:-1 group-title="FILMES/SERIES",Adrenalina Pura TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",AMC
-https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",AXN
-https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",Bora Filmes
-https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Channel One
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
-http://148.113.160.49:14200
 #EXTINF:-1 group-title="FILMES/SERIES",Filmelier TV
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Filmelier TV Esperanca
@@ -92,14 +78,8 @@ https://amg00740-sofa-amg00740c17-tcl-us-8638.playouts.now.amagi.tv/playlist.m3u
 https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Filmes Acao Total
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",Hallo! Classic
-https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Hallo! Movies
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8?token=82a409ea228d7cb2402106159a946417c66652eb-d17eb7b54a9c7f76042adf5377a57137-1731305419-1731262219
-#EXTINF:-1 group-title="FILMES/SERIES",Hallo! Series
-https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
-http://148.113.160.49:14185
 #EXTINF:-1 group-title="FILMES/SERIES",Megapix
 http://79.127.238.228:14592/
 #EXTINF:-1 group-title="FILMES/SERIES",Mr. Bean
@@ -122,12 +102,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 group-title="FILMES/SERIES",Run:Time Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:-1 group-title="FILMES/SERIES",So Play Movies
-https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
-https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",Sony Movies
-https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Sony One Emocoes
@@ -144,8 +118,6 @@ http://79.127.238.228:14629/
 http://79.127.243.211:14615
 #EXTINF:-1 group-title="FILMES/SERIES",Todo Mundo Odeia o Chris
 http://15.235.9.200:14040
-#EXTINF:-1 group-title="FILMES/SERIES",TV Clube
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Universal TV
 http://79.127.243.211:14623
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
@@ -154,10 +126,6 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Series
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",USA Network
-http://148.113.160.49:14133
-#EXTINF:-1 group-title="FILMES/SERIES",VGS TV
-https://isaocorp.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
 http://79.127.238.228:14647
 
