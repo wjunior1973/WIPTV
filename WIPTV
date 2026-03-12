@@ -204,31 +204,15 @@ https://video01.soultv.com.br/julio1/julio1/playlist.m3u8
 https://video01.soultv.com.br/julio2/julio2/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",Globo Esporte
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="ESPORTES",N Sports
-https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",Racer Brasil
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES",SFT Combat
-https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 
 ### INFANTIS ###
 
 #EXTINF:-1 group-title="INFANTIS",Box Kids
 http://168.205.87.198:8555/live/1347/123456/346.m3u8
-#EXTINF:-1 group-title="INFANTIS",Cartoon Network
-https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
-#EXTINF:-1 group-title="INFANTIS",Cartoonito
-https://cdn-3.nxplay.com.br/CARTOONITO_TK/index.m3u8
-#EXTINF:-1 group-title="INFANTIS",Hallo! Anime
-https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
-#EXTINF:-1 group-title="INFANTIS",HTO Kids
-https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/hto_kids/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
-#EXTINF:-1 group-title="INFANTIS",Tooncast
-https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:-1 group-title="INFANTIS",TV RaTimBum
 http://168.205.87.198:8555/live/1347/123456/284.m3u8
-#EXTINF:-1 group-title="INFANTIS",Urban Kids
-http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 ### MUSICA ###
 
