@@ -82,6 +82,8 @@ https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Cine Terror
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES",Entretendo
+https://cdn-5.nxplay.com.br/ENTRETENDO/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Filmelier TV
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Filmelier TV Esperanca
@@ -132,6 +134,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 group-title="FILMES/SERIES",Run:Time Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+#EXTINF:-1 group-title="FILMES/SERIES",Sony Channel
+https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES",Sony Movies
+https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Sony One Emocoes
