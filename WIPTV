@@ -26,8 +26,6 @@ https://hplay.tv/augetv/12396547488/227.m3u8
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="TV ABERTA",SBT
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/2.m3u8
-#EXTINF:-1 group-title="TV ABERTA",SBT [2]
-http://46.151.196.223:14002
 #EXTINF:-1 group-title="TV ABERTA",SBT Minas
 http://168.205.87.198:8555/live/1347/123456/291.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Aparecida
@@ -149,8 +147,6 @@ http://s2.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
 http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
-http://79.127.238.228:14629/
-#EXTINF:-1 group-title="FILMES/SERIES",TNT [2]
 http://79.127.243.211:14615
 #EXTINF:-1 group-title="FILMES/SERIES",Todo Mundo Odeia o Chris
 http://15.235.9.200:14040
@@ -199,8 +195,6 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999253
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay_Rights/Masterchef_Brasil_BR/Masterchef_Brasil.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Multishow
 http://46.151.196.223:14045
-#EXTINF:-1 group-title="VARIEDADES",Programa 4 por 4
-https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Receitas Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Sabor & Arte
@@ -244,10 +238,6 @@ http://46.151.196.223:14450
 http://46.151.196.223:14456
 #EXTINF:-1 group-title="ESPORTES",ESPN Brasil 6
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
-#EXTINF:-1 group-title="ESPORTES",Futebol 1
-https://video01.soultv.com.br/julio1/julio1/playlist.m3u8
-#EXTINF:-1 group-title="ESPORTES",Futebol 2
-https://video01.soultv.com.br/julio2/julio2/playlist.m3u8
 #EXTINF:-1 group-title="ESPORTES",Globo Esporte
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="ESPORTES",Racer Brasil
