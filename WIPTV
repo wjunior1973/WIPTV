@@ -4,8 +4,6 @@
 
 #EXTINF:-1 group-title="TV ABERTA",Band
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA",Band MG
-http://168.205.87.198:8555/live/1347/123456/276.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Band RJ
 https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTRmMjExLTQyMjktNzQ5Zi1hNDdlLTU4ZjgxOTQ3MTAyNC8iLCJ1aWQiOiJiMTQ2NmM3Yi1jN2E3LTRkMDgtYmZkMy00MzFjM2I1NWQyZDEiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2NzU2NTIzMiwiaWF0IjoxNzY3NTY1MjMyLCJleHAiOjE3OTkxMDEyMzIsImp0aSI6ImIxNDY2YzdiLWM3YTctNGQwOC1iZmQzLTQzMWMzYjU1ZDJkMSIsImlzcyI6IlNwYWxsYSJ9.rvFi_pGVU1qDfeuLnmM9GKu7oYtfSPkLZSF3ak0cuG8&uid=b1466c7b-c7a7-4d08-bfd3-431c3b55d2d1&magica=sim
 #EXTINF:-1 group-title="TV ABERTA",Canal Futura
@@ -18,8 +16,6 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 http://79.127.238.228:14217/
 #EXTINF:-1 group-title="TV ABERTA",Globo SP
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
-#EXTINF:-1 group-title="TV ABERTA",Record MG
-http://168.205.87.198:8555/live/1347/123456/285.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record RJ
 http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Record SP
@@ -28,8 +24,6 @@ https://hplay.tv/augetv/12396547488/227.m3u8
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="TV ABERTA",SBT
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/2.m3u8
-#EXTINF:-1 group-title="TV ABERTA",SBT Minas
-http://168.205.87.198:8555/live/1347/123456/291.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
@@ -118,10 +112,6 @@ https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Old Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",Playpoca Filmes
-http://168.205.87.198:8555/live/1347/123456/326.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",Playpoca Series
-http://168.205.87.198:8555/live/1347/123456/327.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Rakuten Top Movies
 https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Run:Time Acao
@@ -261,21 +251,13 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/73
 
 ### INFANTIS ###
 
-#EXTINF:-1 group-title="INFANTIS",Box Kids
-http://168.205.87.198:8555/live/1347/123456/346.m3u8
 #EXTINF:-1 group-title="INFANTIS",D.P.A
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 #EXTINF:-1 group-title="INFANTIS",NickOnline
 http://x1co.com.br:8080/hls/0/stream.m3u8
-#EXTINF:-1 group-title="INFANTIS",TV RaTimBum
-http://168.205.87.198:8555/live/1347/123456/284.m3u8
 
 ### MUSICA ###
 
-#EXTINF:-1 group-title="MUSICA",Music Classics
-http://168.205.87.198:8555/live/1347/123456/319.m3u8
-#EXTINF:-1 group-title="MUSICA",Music Rock
-http://168.205.87.198:8555/live/1347/123456/325.m3u8
 #EXTINF:-1 group-title="MUSICA",NOW! 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="MUSICA",NOW! 80s
