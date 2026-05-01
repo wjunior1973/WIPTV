@@ -94,8 +94,6 @@ https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
 https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Filmes de Luta
 https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
-#EXTINF:-1 group-title="FILMES/SERIES",Filmes Era de Ouro do Cinema
-https://jmp2.uk/plu-69441fd9e4674206f0a51245.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Filmes Ficcao Cientifica
 https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Filmes Suspense
@@ -136,18 +134,12 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
 http://79.127.243.211:14632
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
-http://89.187.190.167:14104
-#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
-http://89.187.190.167:14107
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
 http://s2.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
 http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 group-title="FILMES/SERIES",TNT
 http://79.127.243.211:14615
-#EXTINF:-1 group-title="FILMES/SERIES",Todo Mundo Odeia o Chris
-http://15.235.9.200:14040
 #EXTINF:-1 group-title="FILMES/SERIES",Universal TV
 http://79.127.243.211:14623
 #EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
@@ -187,8 +179,6 @@ http://200.229.190.189:8001/play/a01g
 http://79.127.238.228:14455
 #EXTINF:-1 group-title="VARIEDADES",GNT
 http://79.127.238.228:14402
-#EXTINF:-1 group-title="VARIEDADES",Hardcore Pawn
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/HardcorePawn_BR/HardcorePawn.m3u8
 #EXTINF:-1 group-title="VARIEDADES",HGTV
 http://200.229.190.189:8001/play/a01b
 #EXTINF:-1 group-title="VARIEDADES",History
@@ -213,8 +203,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeTravel_BR/Tas
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Urban Docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES",Urban Drive
-http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Urban Travel
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Vambora Channel
@@ -222,8 +210,6 @@ https://video07.logicahost.com.br/vamborachannel/vamborachannel/chunklist_w16638
 
 ### ESPORTES ###
 
-#EXTINF:-1 group-title="ESPORTES",Band Sports
-http://79.127.243.211:14445/
 #EXTINF:-1 group-title="ESPORTES",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="ESPORTES",Combate
