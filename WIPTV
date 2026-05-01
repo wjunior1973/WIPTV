@@ -22,12 +22,18 @@ http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 https://hplay.tv:443/augetv/12396547488/1303
 #EXTINF:-1 group-title="TV ABERTA",Record RJ
 http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA",Record SC
+https://hplay.tv:443/augetv/12396547488/49
 #EXTINF:-1 group-title="TV ABERTA",Record SP
 https://hplay.tv/augetv/12396547488/227.m3u8
 #EXTINF:-1 group-title="TV ABERTA",Rede TV! PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="TV ABERTA",SBT
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/2.m3u8
+#EXTINF:-1 group-title="TV ABERTA",SBT RJ
+https://hplay.tv:443/augetv/12396547488/7416
+#EXTINF:-1 group-title="TV ABERTA",SBT SC
+https://hplay.tv:443/augetv/12396547488/48
 #EXTINF:-1 group-title="TV ABERTA",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA",TV Brasil
@@ -116,6 +122,8 @@ https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Old Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES",Omega Cult
+https://hplay.tv:443/augetv/12396547488/6633
 #EXTINF:-1 group-title="FILMES/SERIES",Rakuten Top Movies
 https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES",Run:Time Acao
@@ -159,8 +167,6 @@ http://79.127.238.228:14647
 
 ### VARIEDADES ###
 
-#EXTINF:-1 group-title="VARIEDADES",Acelerados
-https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Arte1
 https://cdn-3.nxplay.com.br/ARTE1_TK/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES",BIS
@@ -207,6 +213,10 @@ https://cdn-3.nxplay.com.br/HTO_TV/tracks-v1a1/mono.m3u8
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay_Rights/Masterchef_Brasil_BR/Masterchef_Brasil.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Multishow
 http://46.151.196.223:14045
+#EXTINF:-1 group-title="VARIEDADES",Omega Channel
+https://hplay.tv:443/augetv/12396547488/6631
+#EXTINF:-1 group-title="VARIEDADES",Prime Box Brazil
+https://hplay.tv:443/augetv/12396547488/6746
 #EXTINF:-1 group-title="VARIEDADES",Receitas Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Sabor & Arte
@@ -267,7 +277,9 @@ https://cdn-3.nxplay.com.br/HTO_KIDS/tracks-v1a1/mono.m3u8
 https://hplay.tv:443/augetv/12396547488/6736
 #EXTINF:-1 group-title="INFANTIS",NickOnline
 http://x1co.com.br:8080/hls/0/stream.m3u8
-#EXTINF:-1,Tooncast
+#EXTINF:-1 group-title="INFANTIS",Ra Tim Bum
+https://hplay.tv:443/augetv/12396547488/6737
+#EXTINF:-1 group-title="INFANTIS",Tooncast
 https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 ### MUSICA ###
