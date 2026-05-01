@@ -239,6 +239,8 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/73
 
 #EXTINF:-1 group-title="INFANTIS",D.P.A
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
+#EXTINF:-1 group-title="INFANTIS",HTO Kids
+https://cdn-3.nxplay.com.br/HTO_KIDS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INFANTIS",NickOnline
 http://x1co.com.br:8080/hls/0/stream.m3u8
 
