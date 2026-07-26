@@ -246,6 +246,9 @@ http://streamer.sattvacabo.com.br/HBO_POP_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8
 #EXTINF:-1,HBO Xtreme
 https://megaflix.mgfiles.lat/9b84e468352d6a70935cac946f3ee4c5/file.m3u8
 
+#EXTINF:-1,HGTV
+http://200.229.190.189:8001/play/a01b
+
 #EXTINF:-1,History
 http://46.151.196.223:14410
 
