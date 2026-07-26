@@ -3,11 +3,17 @@
 #EXTINF:-1,A&E
 http://79.127.238.228:14551
 
+#EXTINF:-1,A&E [2]
+http://streamer.sattvacabo.com.br/AE_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
 #EXTINF:-1,AMC
 http://79.127.243.211:14565/
 
 #EXTINF:-1,Animal Planet
 http://79.127.243.211:14370/
+
+#EXTINF:-1,Arte 1
+http://streamer.sattvacabo.com.br/ARTE_1/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1,AXN
 http://79.127.238.228:14563
@@ -26,6 +32,9 @@ http://79.127.243.211:14703/
 
 #EXTINF:-1,Band [3]
 http://79.127.238.228:14298
+
+#EXTINF:-1,Band MG
+http://168.205.87.198:8555/live/1354/123456/276.m3u8
 
 #EXTINF:-1,Band News
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21.m3u8
@@ -51,6 +60,12 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1,Channel One
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 
+#EXTINF:-1,Cine Acao
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+
+#EXTINF:-1,Cine Brasil TV
+http://168.205.87.198:8555/live/1354/123456/331.m3u8
+
 #EXTINF:-1,Cine Comedia
 https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
 
@@ -63,14 +78,26 @@ https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
 #EXTINF:-1,Cine Drama
 https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
 
+#EXTINF:-1,Cine Ficcao Cientifica
+https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
+
+#EXTINF:-1,Cine Luta
+https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+
 #EXTINF:-1,Cine Romance
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
 
 #EXTINF:-1,Cine Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 
+#EXTINF:-1,Cine Suspense
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+
 #EXTINF:-1,Cine Terror
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+
+#EXTINF:-1,Cinemax
+https://megaflix.mgfiles.lat/3b8b64555fa7b54bd2219c85929f14c0/file.m3u8
 
 #EXTINF:-1,CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
@@ -83,6 +110,9 @@ https://jmp2.uk/plu-62d969fd8451a30007f0fd94.m3u8
 
 #EXTINF:-1,Combate
 http://46.151.196.223:14468/
+
+#EXTINF:-1,Comedy Club
+https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 
 #EXTINF:-1,Cultura
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
@@ -114,6 +144,9 @@ http://79.127.243.211:14785/
 #EXTINF:-1,Discovery World
 http://79.127.243.211:14789/
 
+#EXTINF:-1,Disney Channel
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+
 #EXTINF:-1,ESPN Brasil 1
 http://46.151.196.223:14432
 
@@ -132,17 +165,8 @@ http://46.151.196.223:14456
 #EXTINF:-1,ESPN Brasil 6
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 
-#EXTINF:-1,Filmes de Acao
-https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
-
-#EXTINF:-1,Filmes de Luta
-https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
-
-#EXTINF:-1,Filmes Ficcao Cientifica
-https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
-
-#EXTINF:-1,Filmes Suspense
-https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+#EXTINF:-1,Fish TV
+http://streamer.sattvacabo.com.br/FISH_TV_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1,Flow TV
 https://cc-l2unazbogzufr.akamaized.net/gpf/tvfl/tvfl_h265.m3u8
@@ -159,11 +183,20 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1,Globo Esporte
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 
+#EXTINF:-1,Globo MG
+http://168.205.87.198:8555/live/1354/123456/282.m3u8
+
 #EXTINF:-1,Globo News
 http://79.127.238.228:14093
 
 #EXTINF:-1,Globo RJ
 http://79.127.238.228:14217/
+
+#EXTINF:-1,Globo RJ [2]
+http://gerenciar.vivatele.com/viva_padrao/viva2384/1
+
+#EXTINF:-1,Globo RJ [3]
+http://45.190.28.50/GLOBO_HD/index.m3u8
 
 #EXTINF:-1,Globo SP
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
@@ -174,17 +207,59 @@ http://79.127.238.228:14455
 #EXTINF:-1,GNT
 http://79.127.238.228:14402
 
+#EXTINF:-1,Hallo! Anime
+http://streamer.sattvacabo.com.br/HALLO_ANIME/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1,Hallo! Classic
+http://streamer.sattvacabo.com.br/HALLO_CLASSIC/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1,Hallo! Doc
+http://streamer.sattvacabo.com.br/HALLO_DOC/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1,Hallo! Movies
+http://streamer.sattvacabo.com.br/HALLO_MOVIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1,Hallo! Music
+http://streamer.sattvacabo.com.br/HALLO_MUSIC/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1,Hallo! Series
+http://streamer.sattvacabo.com.br/HALLO_SERIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
 #EXTINF:-1,HBO
 http://79.127.243.211:14668/
 
 #EXTINF:-1,HBO 2
 http://79.127.243.211:14660/
 
+#EXTINF:-1,HBO Family
+https://megaflix.mgfiles.lat/8ea50dc6ffce55fe09cf2468ab78d9c7/file.m3u8
+
+#EXTINF:-1,HBO Mundi
+http://streamer.sattvacabo.com.br/HBO_MUNDI_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1,HBO Plus
+https://megaflix.mgfiles.lat/d821613ce0d5a46d2cc4d0c322096fba/file.m3u8
+
+#EXTINF:-1,HBO POP
+http://streamer.sattvacabo.com.br/HBO_POP_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1,HBO Xtreme
+https://megaflix.mgfiles.lat/9b84e468352d6a70935cac946f3ee4c5/file.m3u8
+
 #EXTINF:-1,History
 http://46.151.196.223:14410
 
+#EXTINF:-1,History [2]
+http://177.52.24.163/HISTORY-HD/index.m3u8
+
+#EXTINF:-1,History 2
+http://185.152.67.187:14392
+
 #EXTINF:-1,Homeful
 https://jmp2.uk/plu-67603668f433320008760af1.m3u8
+
+#EXTINF:-1,Jovem Pan News
+http://168.205.87.198:8555/live/1354/123456/308.m3u8
 
 #EXTINF:-1,Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
@@ -216,6 +291,15 @@ https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 #EXTINF:-1,Multishow
 http://46.151.196.223:14045
 
+#EXTINF:-1,Music Classics
+http://168.205.87.198:8555/live/1354/123456/319.m3u8
+
+#EXTINF:-1,Music Pop
+http://168.205.87.198:8555/live/1354/123456/324.m3u8
+
+#EXTINF:-1,Music Rock
+http://168.205.87.198:8555/live/1354/123456/325.m3u8
+
 #EXTINF:-1,NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 
@@ -246,20 +330,41 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u
 #EXTINF:-1,Old Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
 
-#EXTINF:-1,Os Arquivos do FBI
-https://jmp2.uk/plu-620d12a82e8ac50007c269c3.m3u8
-
 #EXTINF:-1,Otaku TV
 http://200.194.238.229:8383/live/otaku/playlist.m3u8
 
 #EXTINF:-1,Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 
+#EXTINF:-1,Playpoca FILMES
+http://168.205.87.198:8555/live/1354/123456/326.m3u8
+
+#EXTINF:-1,Playpoca SERIES
+http://168.205.87.198:8555/live/1354/123456/327.m3u8
+
 #EXTINF:-1,Popeye
 https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 
 #EXTINF:-1,Premiere Clubes
 http://79.127.238.228:14157/
+
+#EXTINF:-1,Premiere 2
+http://79.127.243.211:14485
+
+#EXTINF:-1,Premiere 3
+http://79.127.243.211:14489
+
+#EXTINF:-1,Premiere 4
+http://79.127.243.211:14481
+
+#EXTINF:-1,Premiere 5
+http://79.127.243.211:14493
+
+#EXTINF:-1,PREMIERE 6
+http://79.127.243.211:14497
+
+#EXTINF:-1,Premiere 7
+http://79.127.243.211:14501
 
 #EXTINF:-1,Racer Brasil
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
@@ -279,6 +384,9 @@ http://79.127.243.211:14640/
 #EXTINF:-1,Record [3]
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 
+#EXTINF:-1,Record MG
+http://168.205.87.198:8555/live/1354/123456/285.m3u8
+
 #EXTINF:-1,Record MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
@@ -293,6 +401,9 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1,Record SP
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1,Rede TV! MG
+http://168.205.87.198:8555/live/1354/123456/289.m3u8
 
 #EXTINF:-1,Rede TV! PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
@@ -315,14 +426,29 @@ https://aovivo.maissbt.com/channel_1080.m3u8
 #EXTINF:-1,SBT - Cidade Verde
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 
+#EXTINF:-1,SBT RJ
+http://gerenciar.vivatele.com/viva_padrao/viva2384/2
+
+#EXTINF:-1,SBT SP
+http://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
+
 #EXTINF:-1,SBT News
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1,Sony Channel
+http://46.151.196.223:14603
 
 #EXTINF:-1,Sony Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1,Space
+http://46.151.196.223:14610
+
 #EXTINF:-1,Star Trek
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
+
+#EXTINF:-1,Studio Universal
+http://46.151.196.223:14613
 
 #EXTINF:-1,Tastemade
 https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
@@ -336,6 +462,9 @@ http://s2.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1,Telecine Premium
 http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
 
+#EXTINF:-1,Times Brasil
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+
 #EXTINF:-1,TNT
 http://79.127.243.211:14615
 
@@ -344,6 +473,9 @@ http://79.127.238.228:14629/
 
 #EXTINF:-1,Toon Goggles
 https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
+
+#EXTINF:-1,Tooncast
+http://streamer.sattvacabo.com.br/TOONCAST/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1,Turma da Monica
 https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
