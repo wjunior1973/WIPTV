@@ -1,9 +1,5 @@
 #EXTINF:-1,A&E
 http://79.127.238.228:14551
-#EXTINF:-1,A&E [2]
-http://streamer.sattvacabo.com.br/AE_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-#EXTINF:-1,Arte 1
-http://streamer.sattvacabo.com.br/ARTE_1/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1,AXN
 http://79.127.238.228:14563
 #EXTINF:-1,Baby Shark
@@ -16,8 +12,6 @@ http://79.127.238.228:14298
 http://168.205.87.198:8555/live/1354/123456/276.m3u8
 #EXTINF:-1,Band News
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21.m3u8
-#EXTINF:-1,Band Sports
-http://streamer.sattvacabo.com.br/BAND_SPORTS_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1,BM&C News
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:-1,Canal Futura
@@ -88,18 +82,6 @@ http://79.127.238.228:14093
 http://79.127.238.228:14455
 #EXTINF:-1,GNT
 http://79.127.238.228:14402
-#EXTINF:-1,Hallo! Anime
-http://streamer.sattvacabo.com.br/HALLO_ANIME/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-#EXTINF:-1,Hallo! Classic
-http://streamer.sattvacabo.com.br/HALLO_CLASSIC/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-#EXTINF:-1,Hallo! Doc
-http://streamer.sattvacabo.com.br/HALLO_DOC/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-#EXTINF:-1,Hallo! Movies
-http://streamer.sattvacabo.com.br/HALLO_MOVIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-#EXTINF:-1,Hallo! Music
-http://streamer.sattvacabo.com.br/HALLO_MUSIC/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-#EXTINF:-1,Hallo! Series
-http://streamer.sattvacabo.com.br/HALLO_SERIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1,HGTV
 http://200.229.190.189:8001/play/a01b
 #EXTINF:-1,History
