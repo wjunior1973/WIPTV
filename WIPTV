@@ -82,6 +82,10 @@ http://200.194.238.229:8383/live/oldseries/playlist.m3u8
 http://200.194.238.229:8383/live/otaku/playlist.m3u8
 #EXTINF:-1,Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1,Playpoca Filmes
+http://168.205.87.198:8555/live/1347/123456/326.m3u8
+#EXTINF:-1,Playpoca Series
+http://168.205.87.198:8555/live/1347/123456/327.m3u8
 #EXTINF:-1,Premiere Clubes
 http://79.127.238.228:14157/
 #EXTINF:-1,Racer Brasil
@@ -92,6 +96,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_
 http://79.127.238.228:14057
 #EXTINF:-1,Record [2]
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
+#EXTINF:-1,Record MG
+http://168.205.87.198:8555/live/1347/123456/285.m3u8
 #EXTINF:-1,Record MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1,Record News
@@ -108,6 +114,8 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
 #EXTINF:-1,Sabor & Arte
 https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,SBT Minas
+http://168.205.87.198:8555/live/1347/123456/291.m3u8
 #EXTINF:-1,SBT News
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1,SBT RJ
@@ -128,8 +136,10 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1,TV Galega
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
-#EXTINF:-1,TV Gazeta SP
+#EXTINF:-1,TV Gazeta
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1,TV RaTimBum
+http://168.205.87.198:8555/live/1347/123456/284.m3u8
 #EXTINF:-1,Urban Docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:-1,Urban Drive
