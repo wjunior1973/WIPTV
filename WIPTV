@@ -1,13 +1,23 @@
 #EXTINF:-1,A&E
 http://79.127.238.228:14551
+#EXTINF:-1,AW TV
+https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1,Band
 http://79.127.238.228:14298
 #EXTINF:-1,Band MG
 http://168.205.87.198:8555/live/1347/123456/276.m3u8
 #EXTINF:-1,Band News
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21.m3u8
+#EXTINF:-1,Box Kids
+http://168.205.87.198:8555/live/1347/123456/346.m3u8
 #EXTINF:-1,Canal Futura
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9
+#EXTINF:-1,Canção Nova
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8
+#EXTINF:-1,Caras TV
+https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
+#EXTINF:-1,CaTVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
 #EXTINF:-1,Channel One
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1,CNN Brasil
@@ -22,6 +32,8 @@ https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
 #EXTINF:-1,D.P.A
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
+#EXTINF:-1,Desempedidos
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 #EXTINF:-1,Discovery Channel
 http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
 #EXTINF:-1,Discovery H&H
@@ -44,10 +56,18 @@ http://79.127.238.228:14455
 http://79.127.238.228:14402
 #EXTINF:-1,History
 http://46.151.196.223:14410
-#EXTINF:-1,History 2
-http://185.152.67.187:14392
+#EXTINF:-1,Malhacao 24h
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
+#EXTINF:-1,MasterChef 24h
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay_Rights/Masterchef_Brasil_BR/Masterchef_Brasil.m3u8
 #EXTINF:-1,Mr. Bean
 https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Music Classics
+http://168.205.87.198:8555/live/1347/123456/319.m3u8
+#EXTINF:-1,Music Rock
+http://168.205.87.198:8555/live/1347/123456/325.m3u8
+#EXTINF:-1,NCIS
+https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 #EXTINF:-1,Novelissima BR
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1,NOW! 70s
