@@ -12,6 +12,8 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21.m3u8
 http://168.205.87.198:8555/live/1347/123456/346.m3u8
 #EXTINF:-1,Canal Futura
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9
+#EXTINF:-1,Canal Saude
+http://tv.mapfibra.com.br:8555/live/1347/123456/311.m3u8
 #EXTINF:-1,Canção Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8
 #EXTINF:-1,Caras TV
@@ -20,6 +22,8 @@ https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
 #EXTINF:-1,Channel One
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1,Chaves & Chapolin
+http://tv.mapfibra.com.br:8555/live/1347/123456/306.m3u8
 #EXTINF:-1,CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 #EXTINF:-1,CNN Brasil Money
@@ -56,6 +60,8 @@ http://79.127.238.228:14455
 http://79.127.238.228:14402
 #EXTINF:-1,History
 http://46.151.196.223:14410
+#EXTINF:-1,JP News
+http://tv.mapfibra.com.br:8555/live/1347/123456/308.m3u8
 #EXTINF:-1,Malhacao 24h
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 #EXTINF:-1,MasterChef 24h
@@ -80,6 +86,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
 #EXTINF:-1,Otaku TV
 http://200.194.238.229:8383/live/otaku/playlist.m3u8
+#EXTINF:-1,Pai Eterno
+http://tv.mapfibra.com.br:8555/live/1347/123456/300.m3u8
 #EXTINF:-1,Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTINF:-1,Playpoca Filmes
@@ -138,8 +146,12 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:-1,TV Gazeta
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1,TV Justica
+http://tv.mapfibra.com.br:8555/live/1347/123456/296.m3u8
 #EXTINF:-1,TV RaTimBum
 http://168.205.87.198:8555/live/1347/123456/284.m3u8
+#EXTINF:-1,TV Senado
+http://tv.mapfibra.com.br:8555/live/1347/123456/297.m3u8
 #EXTINF:-1,Urban Docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:-1,Urban Drive
