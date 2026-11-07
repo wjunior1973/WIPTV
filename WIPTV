@@ -2,6 +2,8 @@
 http://79.127.238.228:14551
 #EXTINF:-1,Band
 http://79.127.238.228:14298
+#EXTINF:-1,Band MG
+http://168.205.87.198:8555/live/1347/123456/276.m3u8
 #EXTINF:-1,Band News
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21.m3u8
 #EXTINF:-1,Canal Futura
