@@ -1,6 +1,6 @@
 #EXTINF:-1,A&E
 http://79.127.238.228:14551
-#EXTINF:-1,AXN (720p)
+#EXTINF:-1,AXN
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1,AW TV
 https://awtv.nuvemplay.live/hls/stream.m3u8
